@@ -20,7 +20,7 @@ nav{
 
 h1{
     text-align: center;
-    padding: 10px;;
+    padding: 10px;
 }
 
 .esquerda a, .direita a{
@@ -32,7 +32,7 @@ h1{
 .direita a {margin-right: 0;}
 
 nav a:hover{
-    color: brown;
+    color: rgb(12, 142, 10);
 }
 
 footer{
@@ -43,5 +43,5 @@ footer{
     position: fixed;
     background-color: rgb(5, 67, 32);
     color: aliceblue;
-
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
